@@ -43,6 +43,10 @@ footer{
 /* end of letters */
 
 /* custom */
+q{
+	font-style: italic;
+}
+
 [epub|type~="z3998:letter"] header,
 #a-marriage-settlement-conclusion header{
 	font-variant: small-caps;

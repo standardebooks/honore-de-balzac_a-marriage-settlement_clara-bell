@@ -45,9 +45,11 @@
 		<meta property="collection-type" refines="#collection-1">series</meta>
 		<meta id="collection-2" property="belongs-to-collection">The Human Comedy: Scenes from Private Life</meta>
 		<meta property="collection-type" refines="#collection-2">series</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">A young couple work through the details of negotiating a marriage contract, and the subsequent impact on their marriage.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Paul de Manerville is the scion of a well-known and wealthy family in Bordeaux. After his father’s death, he leaves the family estate and spends several years in various positions in prominent cities in Europe. Although well-traveled, Paul is not wise to the ways of the world or of the people in it. So, when he decides he wants to find someone to marry, his close friend argues strenuously against it. As with all men who think more of themselves than they should, Paul ignores his friend, and soon focuses his attentions on Natalie Evangelista, the daughter of a wealthy Spaniard and his Creole wife who settled at Bordeaux in the earlier years of the century. Her father passed away when she was a child, and she has been brought up by her mother.&lt;/p&gt;
+			&lt;p&gt;Everything goes well until it comes to the negotiating of the marriage contract. Natalie’s mother has spent most of the money that Natalie is due from her father’s estate, so her mother engages her lawyer to negotiate in a way that hides that fact. Paul’s lawyer is a considerably older, and considerably more experienced lawyer, and so the battle of wits begins.&lt;/p&gt;
+			&lt;p&gt;The bulk of this short novel consists of this negotiation, as well as the aftermath of it on the relationships of all three involved: Paul, Natalie, and her mother.&lt;/p&gt;
 		</meta>
 		<dc:language>en-US</dc:language>
 		<dc:source>https://archive.org/details/worksofhonorde11balzuoft</dc:source>

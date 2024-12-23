@@ -50,6 +50,9 @@ q{
 [epub|type~="z3998:letter"] header,
 #a-marriage-settlement-conclusion header{
 	font-variant: small-caps;
+}
+
+[epub|type~="z3998:letter"] header{
 	margin-bottom: 1em;
 }
 
